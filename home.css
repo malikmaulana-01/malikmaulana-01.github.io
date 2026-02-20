@@ -38,6 +38,18 @@ body {
   transition: 0.7s;
 }
 
-.rigth-container {
-  
+.right-container {
+  position: absolute;
+  left: 400px;
+}
+
+.top-bar {
+  padding-top:50px;
+  padding-left: 100px;
+}
+
+.list-menu {
+  float: right;
+  padding-left: 190px;
+
 }
