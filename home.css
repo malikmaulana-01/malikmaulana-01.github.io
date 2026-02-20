@@ -1,0 +1,43 @@
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.left-container {
+  position: fixed;
+  width:375px;
+  height: 100vh;
+  background-color: gray;
+}
+
+.photo-contact {
+  position: absolute;
+  top: 100px;
+  text-align: center;
+}
+
+.photo {
+  width: 50%;
+  border-radius: 15%;
+}
+
+.contact-btn {
+  width: 50%;
+  background-color: white;
+  border-radius: 12px;
+  margin-bottom: 12px;
+  font-size: 1.2rem;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.contact-btn:hover {
+  background-color: black;
+  color: white;
+  transition: 0.7s;
+}
+
+.rigth-container {
+  
+}
