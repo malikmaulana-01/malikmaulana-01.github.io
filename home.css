@@ -34,7 +34,7 @@ body {
 
 .contact-btn:hover {
   background-color: black;
-  color: white;
+  color: aqua;
   transition: 0.7s;
 }
 
